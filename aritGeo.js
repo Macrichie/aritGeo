@@ -40,17 +40,17 @@ function aritGeo(arr) {
     }
 }
 
-console.log(aritGeo([10, 30, 90, 270, 810, 2430]));
-console.log(aritGeo([3,9,15,21,27,28]));
-console.log(aritGeo([3,9,15,21,27]));
-console.log(aritGeo([4,2,1,0.5]));
-console.log(aritGeo([3]));
-console.log(aritGeo(2));
-console.log(aritGeo([3, -2, 1]));
-console.log(aritGeo([]));
-console.log(aritGeo([3, 54, 31, -2]));
-console.log(aritGeo(["This","is","adela"]));
-console.log(aritGeo([15, 10, 5, 0, -5, -10]));
-console.log(aritGeo([-128, 64, -32, 16, -8]));
+// console.log(aritGeo([10, 30, 90, 270, 810, 2430]));
+// console.log(aritGeo([3,9,15,21,27,28]));
+// console.log(aritGeo([3,9,15,21,27]));
+// console.log(aritGeo([4,2,1,0.5]));
+// console.log(aritGeo([3]));
+// console.log(aritGeo(2));
+// console.log(aritGeo([3, -2, 1]));
+// console.log(aritGeo([]));
+// console.log(aritGeo([3, 54, 31, -2]));
+// console.log(aritGeo(["This","is","adela"]));
+// console.log(aritGeo([15, 10, 5, 0, -5, -10]));
+// console.log(aritGeo([-128, 64, -32, 16, -8]));
 
 module.exports = aritGeo;
