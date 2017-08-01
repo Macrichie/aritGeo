@@ -32,7 +32,7 @@ function aritGeo(arr) {
     }
 
     if(arith === true) {
-        return "arithmetic";
+        return "Arithmetic";
     } else if(geo === true) {
         return" geometric";
     } else {
